@@ -1,15 +1,9 @@
 main:
   - title: "Startseite"
     url: /
-  - title: "Über Uns"
+  - title: "Geschichte"
     url: /ueber-uns/
-  - title: "Ausstattung"
-    url: /ausstattung/
   - title: "Galerie"
     url: /galerie/
-  - title: "Umgebung"
-    url: /umgebung/
-  - title: "Preise"
-    url: /preise/
   - title: "Kontakt"
     url: /kontakt/
