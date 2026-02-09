@@ -5,6 +5,7 @@ name: "Villa Roscher"
 description: "Willkommen in der Villa Roscher – Ihr gemütliches Feriendomizil in Neugersdorf, Sachsen. Erleben Sie Erholung und Komfort in der malerischen Oberlausitz."
 url: "https://villaroscher.github.io"
 baseurl: ""
+repository: "villaroscher/villaroscher.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
