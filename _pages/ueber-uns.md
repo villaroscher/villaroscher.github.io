@@ -24,6 +24,10 @@ Die Villa wurde zu Beginn des 20. Jahrhunderts erbaut und repräsentiert die typ
 
 Durch die Förderung des Sächsischen Kulturfonds wird die Villa Roscher behutsam restauriert. Ziel ist es, die historische Bausubstanz zu erhalten und dieses architektonische Erbe für zukünftige Generationen zu bewahren.
 
+### Die Familie Wansiedler
+
+Wir, die Familie Wansiedler aus München, widmen uns professionell der Restaurierung dieses architektonischen Denkmals. Unser Engagement gilt der Bewahrung des sächsischen Kulturerbes und der fachgerechten Wiederherstellung der Villa Roscher für künftige Generationen.
+
 ## Neugersdorf und seine Geschichte
 
 Neugersdorf liegt im Dreiländereck Deutschland-Polen-Tschechien und blickt auf eine reiche industrielle Vergangenheit zurück:

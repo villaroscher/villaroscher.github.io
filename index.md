@@ -27,22 +27,11 @@ feature_row:
     alt: "Restaurierung"
     title: "Restaurierung"
     excerpt: "Unter Schutz und Förderung des Sächsischen Kulturfonds wird dieses architektonische Denkmal für zukünftige Generationen bewahrt."
-
-feature_row2:
-  - image_path: /assets/images/feature-amenities.jpg
-    alt: "Stadt Neugersdorf"
-    title: "Neugersdorf"
-    excerpt: "Erfahren Sie mehr über die reiche Geschichte der Stadt Neugersdorf in der Oberlausitz und ihre Bedeutung für die Region."
-    url: "/umgebung/"
-    btn_label: "Mehr erfahren"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
 
 ---
 
