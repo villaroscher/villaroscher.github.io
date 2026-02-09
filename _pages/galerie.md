@@ -8,40 +8,40 @@ gallery:
     image_path: /assets/images/gallery/villa-exterior.jpg
     alt: "Villa Roscher Außenansicht"
     title: "Außenansicht der Villa Roscher"
-  - url: /assets/images/gallery/living-room.jpg
-    image_path: /assets/images/gallery/living-room.jpg
-    alt: "Wohnzimmer"
-    title: "Gemütliches Wohnzimmer"
-  - url: /assets/images/gallery/bedroom.jpg
-    image_path: /assets/images/gallery/bedroom.jpg
-    alt: "Schlafzimmer"
-    title: "Komfortables Schlafzimmer"
-  - url: /assets/images/gallery/kitchen.jpg
-    image_path: /assets/images/gallery/kitchen.jpg
-    alt: "Küche"
-    title: "Voll ausgestattete Küche"
-  - url: /assets/images/gallery/bathroom.jpg
-    image_path: /assets/images/gallery/bathroom.jpg
-    alt: "Badezimmer"
-    title: "Modernes Badezimmer"
-  - url: /assets/images/gallery/garden.jpg
-    image_path: /assets/images/gallery/garden.jpg
-    alt: "Garten"
-    title: "Garten mit Terrasse"
+  - url: /assets/images/gallery/villa-historic.jpg
+    image_path: /assets/images/gallery/villa-historic.jpg
+    alt: "Historische Aufnahme"
+    title: "Historische Aufnahme der Villa"
+  - url: /assets/images/gallery/facade-details.jpg
+    image_path: /assets/images/gallery/facade-details.jpg
+    alt: "Fassadendetails"
+    title: "Architektonische Details der Fassade"
+  - url: /assets/images/gallery/restoration-1.jpg
+    image_path: /assets/images/gallery/restoration-1.jpg
+    alt: "Restaurierung"
+    title: "Restaurierungsarbeiten"
+  - url: /assets/images/gallery/interior-historic.jpg
+    image_path: /assets/images/gallery/interior-historic.jpg
+    alt: "Historischer Innenraum"
+    title: "Historische Innenraumgestaltung"
+  - url: /assets/images/gallery/neugersdorf-historic.jpg
+    image_path: /assets/images/gallery/neugersdorf-historic.jpg
+    alt: "Neugersdorf historisch"
+    title: "Historisches Neugersdorf"
 ---
 
-## Eindrücke der Villa Roscher
+## Bildergalerie
 
-Verschaffen Sie sich einen ersten Eindruck von unserem Feriendomizil. Die Bilder zeigen die verschiedenen Bereiche der Villa und ihrer Umgebung.
+Eindrücke von der Villa Roscher – historische Aufnahmen und Dokumentation der Restaurierung.
 
 {% include gallery caption="Klicken Sie auf ein Bild für die Vollansicht." %}
 
 ---
 
-## Umgebung
+## Architektonische Details
 
-Die malerische Oberlausitz bietet zahlreiche Fotomotive – von den einzigartigen Umgebindehäusern bis zu den beeindruckenden Felsformationen im Zittauer Gebirge.
+Die Villa Roscher zeigt charakteristische architektonische Elemente des frühen 20. Jahrhunderts. Die Fotogalerie dokumentiert sowohl den historischen Zustand als auch die laufenden Restaurierungsarbeiten.
 
 ---
 
-*Weitere Bilder folgen – schauen Sie bald wieder vorbei!*
+*Die Galerie wird regelmäßig mit neuen Bildern ergänzt, die den Fortschritt der Restaurierung dokumentieren.*

@@ -7,7 +7,7 @@ classes: wide
 
 ## Kontaktieren Sie uns
 
-Haben Sie Fragen zur Villa Roscher oder möchten Sie eine Buchungsanfrage stellen? Wir freuen uns auf Ihre Nachricht!
+Haben Sie Fragen zur Geschichte der Villa Roscher oder zum Restaurierungsprojekt? Wir freuen uns auf Ihre Nachricht!
 
 ---
 
@@ -20,23 +20,24 @@ Käthe-Kollwitz-Straße 3
 Sachsen, Deutschland
 
 <i class="fas fa-envelope"></i> **E-Mail:**  
-[kontakt@villaroscher.de](mailto:kontakt@villaroscher.de)
+[villaroscher@gmail.com](mailto:villaroscher@gmail.com)
 
 <i class="fas fa-phone"></i> **Telefon:**  
-+49 (0) XXX XXXXXXX
++49 (0) 176 241 64 141
 
 ---
 
-## Anfrage senden
+## Anfragen
 
-Für Buchungsanfragen benötigen wir folgende Informationen:
+Wir freuen uns über Ihr Interesse an der Villa Roscher. Gerne beantworten wir Fragen zu:
 
-- Gewünschter Reisezeitraum (An- und Abreisedatum)
-- Anzahl der Personen (Erwachsene / Kinder)
-- Besondere Wünsche oder Fragen
+- Geschichte des Hauses und der Stadt Neugersdorf
+- Architektonischen Besonderheiten
+- Restaurierungsprojekt und Denkmalschutz
+- Historischen Hintergründen
 
 **Per E-Mail:**  
-Senden Sie uns einfach eine E-Mail an [kontakt@villaroscher.de](mailto:kontakt@villaroscher.de) mit den oben genannten Angaben.
+Senden Sie uns einfach eine E-Mail an [villaroscher@gmail.com](mailto:villaroscher@gmail.com).
 
 ---
 
@@ -62,8 +63,8 @@ Senden Sie uns einfach eine E-Mail an [kontakt@villaroscher.de](mailto:kontakt@v
 
 ## Antwortzeiten
 
-Wir bemühen uns, alle Anfragen innerhalb von **24 Stunden** zu beantworten. In der Hauptsaison kann es gelegentlich etwas länger dauern.
+Wir bemühen uns, alle Anfragen zeitnah zu beantworten.
 
 ---
 
-*Wir freuen uns auf Ihre Nachricht und darauf, Sie bald in der Villa Roscher begrüßen zu dürfen!*
+*Wir freuen uns auf Ihre Nachricht und Ihr Interesse an der Geschichte der Villa Roscher!*

@@ -6,34 +6,34 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero-villa.jpg
   actions:
-    - label: "<i class='fas fa-calendar-check'></i> Jetzt Anfragen"
-      url: "/kontakt/"
+    - label: "<i class='fas fa-book'></i> Geschichte"
+      url: "/ueber-uns/"
     - label: "<i class='fas fa-images'></i> Galerie"
       url: "/galerie/"
-excerpt: "Willkommen in Ihrem Feriendomizil in der malerischen Oberlausitz"
+excerpt: "Ein architektonisches Denkmal in der Oberlausitz"
 intro:
-  - excerpt: "**Villa Roscher** – Ihr Zuhause fernab von Zuhause. Genießen Sie Ruhe, Komfort und sächsische Gastfreundschaft in Neugersdorf."
+  - excerpt: "**Villa Roscher** – Ein historisches Bauwerk unter Restaurierung durch den Sächsischen Kulturfonds. Entdecken Sie die faszinierende Geschichte dieses Hauses und der Stadt Neugersdorf."
 
 feature_row:
   - image_path: /assets/images/feature-comfort.jpg
-    alt: "Komfort"
-    title: "Komfortabler Wohnraum"
-    excerpt: "Großzügige, liebevoll eingerichtete Räume laden zum Verweilen ein. Moderne Ausstattung trifft auf klassischen Charme."
+    alt: "Architektur"
+    title: "Historische Architektur"
+    excerpt: "Ein eindrucksvolles Beispiel der Baukunst des frühen 20. Jahrhunderts mit charakteristischen Details und historischem Charme."
   - image_path: /assets/images/feature-location.jpg
-    alt: "Lage"
-    title: "Perfekte Lage"
-    excerpt: "Zentral in Neugersdorf gelegen – idealer Ausgangspunkt für Ausflüge ins Zittauer Gebirge und die Oberlausitz."
+    alt: "Geschichte"
+    title: "Bewegte Geschichte"
+    excerpt: "Von ihrer Entstehung bis heute hat die Villa Roscher viele Epochen durchlebt und spiegelt die Geschichte Neugersdorfs wider."
   - image_path: /assets/images/feature-nature.jpg
-    alt: "Natur"
-    title: "Natur Erleben"
-    excerpt: "Wanderwege, Naturparks und historische Städte in unmittelbarer Nähe. Entspannung und Abenteuer zugleich."
+    alt: "Restaurierung"
+    title: "Restaurierung"
+    excerpt: "Unter Schutz und Förderung des Sächsischen Kulturfonds wird dieses architektonische Denkmal für zukünftige Generationen bewahrt."
 
 feature_row2:
   - image_path: /assets/images/feature-amenities.jpg
-    alt: "Ausstattung"
-    title: "Ausstattung"
-    excerpt: "Voll ausgestattete Küche, komfortable Betten, schnelles WLAN, Garten mit Terrasse und kostenfreie Parkplätze direkt am Haus."
-    url: "/ausstattung/"
+    alt: "Stadt Neugersdorf"
+    title: "Neugersdorf"
+    excerpt: "Erfahren Sie mehr über die reiche Geschichte der Stadt Neugersdorf in der Oberlausitz und ihre Bedeutung für die Region."
+    url: "/umgebung/"
     btn_label: "Mehr erfahren"
     btn_class: "btn--primary"
 ---
@@ -61,6 +61,6 @@ Sachsen, Deutschland
 
 ## Kontakt
 
-Haben Sie Fragen oder möchten Sie eine Anfrage stellen? Wir freuen uns auf Ihre Nachricht!
+Haben Sie Fragen zur Geschichte der Villa Roscher oder möchten Sie mehr erfahren? Wir freuen uns auf Ihre Nachricht!
 
 [<i class="fas fa-envelope"></i> Kontaktieren Sie uns](/kontakt/){: .btn .btn--primary .btn--large}

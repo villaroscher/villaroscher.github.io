@@ -1,8 +1,8 @@
 # Site Settings
 title: "Villa Roscher"
-subtitle: "Ihr Zuhause in Neugersdorf"
+subtitle: "Architektonisches Denkmal in Neugersdorf"
 name: "Villa Roscher"
-description: "Willkommen in der Villa Roscher – Ihr gemütliches Feriendomizil in Neugersdorf, Sachsen. Erleben Sie Erholung und Komfort in der malerischen Oberlausitz."
+description: "Villa Roscher – Ein architektonisches Denkmal unter Restaurierung durch den Sächsischen Kulturfonds. Entdecken Sie die Geschichte dieses historischen Hauses und der Stadt Neugersdorf."
 url: "https://villaroscher.github.io"
 baseurl: ""
 repository: "villaroscher/villaroscher.github.io"
@@ -28,13 +28,13 @@ plugins:
 author:
   name: "Villa Roscher"
   avatar: "/assets/images/villa-avatar.jpg"
-  bio: "Ihr Feriendomizil in der Oberlausitz"
+  bio: "Architektonisches Denkmal unter Restaurierung"
   location: "Neugersdorf, Sachsen"
-  email: "kontakt@villaroscher.de"
+  email: "villaroscher@gmail.com"
   links:
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kontakt@villaroscher.de"
+      url: "mailto:villaroscher@gmail.com"
     - label: "Standort"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.google.com/maps/place/Käthe-Kollwitz-Straße+3,+02727+Neugersdorf"
@@ -44,7 +44,7 @@ footer:
   links:
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kontakt@villaroscher.de"
+      url: "mailto:villaroscher@gmail.com"
 
 # Reading Files
 include:

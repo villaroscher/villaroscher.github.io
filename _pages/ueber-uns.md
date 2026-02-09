@@ -1,36 +1,38 @@
 ---
-title: "Über die Villa Roscher"
+title: "Geschichte der Villa Roscher"
 permalink: /ueber-uns/
 layout: single
 classes: wide
 ---
 
-## Herzlich Willkommen
+## Ein architektonisches Denkmal
 
-Die **Villa Roscher** ist ein liebevoll restauriertes Feriendomizil im Herzen von Neugersdorf, einer charmanten Stadt in der sächsischen Oberlausitz. Unser Haus verbindet den historischen Charme vergangener Zeiten mit modernem Komfort für einen unvergesslichen Aufenthalt.
+Die **Villa Roscher** steht als bedeutendes Zeugnis der Baukunst des frühen 20. Jahrhunderts in Neugersdorf, einer Stadt in der sächsischen Oberlausitz. Dieses historische Gebäude befindet sich gegenwärtig in einem Restaurierungsprozess, gefördert durch den Sächsischen Kulturfonds.
 
-## Unsere Geschichte
+## Entstehung und Bedeutung
 
-Die Villa wurde im frühen 20. Jahrhundert erbaut und hat im Laufe der Jahre viele Geschichten erlebt. Nach einer sorgfältigen Renovierung erstrahlt das Haus heute in neuem Glanz und bietet Gästen aus aller Welt ein gemütliches Zuhause auf Zeit.
+Die Villa wurde zu Beginn des 20. Jahrhunderts erbaut und repräsentiert die typische Architektur dieser Epoche. Das Haus spiegelt die wirtschaftliche und kulturelle Blüte Neugersdorfs wider, die eng mit der Textilindustrie verbunden war.
 
-## Unsere Philosophie
+### Architektonische Besonderheiten
 
-Wir glauben, dass ein Urlaub mehr sein sollte als nur eine Unterkunft. Bei uns erleben Sie:
+- **Historische Fassade** – Charakteristische Elemente der Jahrhundertwende
+- **Ursprüngliche Bausubstanz** – Weitgehend erhaltene Grundstruktur
+- **Regionale Bauweise** – Typisch für die Oberlausitz dieser Zeit
+- **Denkmalschutz** – Geschützt als kulturhistorisches Erbe
 
-- **Persönliche Atmosphäre** – Wir behandeln jeden Gast wie einen Freund
-- **Regionale Authentizität** – Erleben Sie die echte Oberlausitz
-- **Nachhaltigkeit** – Wir achten auf umweltbewusstes Handeln
-- **Qualität** – Hochwertige Ausstattung für Ihren Komfort
+## Das Restaurierungsprojekt
 
-## Die Oberlausitz entdecken
+Durch die Förderung des Sächsischen Kulturfonds wird die Villa Roscher behutsam restauriert. Ziel ist es, die historische Bausubstanz zu erhalten und dieses architektonische Erbe für zukünftige Generationen zu bewahren.
 
-Neugersdorf liegt im Dreiländereck Deutschland-Polen-Tschechien und bietet unzählige Möglichkeiten für Ausflüge:
+## Neugersdorf und seine Geschichte
 
-- Das malerische **Zittauer Gebirge** mit seinen einzigartigen Felsformationen
-- Die historische **Altstadt von Görlitz** – Deutschlands östlichste Stadt
-- Das **UNESCO-Biosphärenreservat Oberlausitzer Heide- und Teichlandschaft**
-- Zahlreiche **Umgebindehäuser** – eine einzigartige regionale Bauweise
+Neugersdorf liegt im Dreiländereck Deutschland-Polen-Tschechien und blickt auf eine reiche industrielle Vergangenheit zurück:
+
+- Tradition der **Textilindustrie** seit dem 19. Jahrhundert
+- Zahlreiche erhaltene **Umgebindehäuser** – einzigartige regionale Bauweise
+- Nähe zum **Zittauer Gebirge** und zur historischen Stadt Görlitz
+- Teil der kulturhistorisch bedeutenden **Oberlausitz**
 
 ---
 
-Wir freuen uns darauf, Sie in der Villa Roscher begrüßen zu dürfen!
+*Diese Webseite dokumentiert die Geschichte der Villa Roscher und informiert über den Fortschritt der Restaurierung.*
